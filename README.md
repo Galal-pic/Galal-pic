@@ -3,9 +3,8 @@
 
 - 👨‍🎓 Graduate of Computer Engineering, Department of Data Science and Analysis  
 - 🔭 I’m currently working on ALX as a data scientist  
-- 🌱 "I am currently learning to analyze data using statistical models and machine learning algorithms."  
-- :mailbox: You can reach me with the links below
-
+- 🌱 "I am currently learning to analyze data using statistical models and machine learning algorithms."
+  
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galalamrewida@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galal-ewida/)
 
