@@ -1,9 +1,9 @@
 ### <div align="center">I'm Galal, a Data Scientist 👨‍💻 I have a great passion for using data to help make the right decisions.👌</div>  
 
 
-- 🎓 Computer Science & Engineering undergraduate
-- 🌱 I’m currently learning Data Scinect
-- ⚡ I’m currently working on Coders Ac     
+- 👨‍🎓 Graduate of Computer Engineering, Department of Data Science and Analysis  
+- 🔭 I’m currently working on ALX as a data scientist  
+- 🌱 "I am currently learning to analyze data using statistical models and machine learning algorithms."  
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galalamrewida@gmail.com)
