@@ -7,6 +7,7 @@
 - :mailbox: You can reach me with the links below
 
 <div align="center">
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galalamrewida@gmail.com)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/galal-ewida/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
