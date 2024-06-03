@@ -8,6 +8,8 @@
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galalamrewida@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galal-ewida/)
+<a href="https://www.youtube.com/user/https://www.youtube.com/@humanlearning0" target="_blank">
+
 
 
 ##### I have skills in
