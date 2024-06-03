@@ -6,14 +6,17 @@
 - 🌱 I am currently learning to analyze data using statistical models and machine learning algorithms. 
 - :mailbox: You can reach me with the links below
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/galal-ewida/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@humanlearning0" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galalamrewida@gmail.com)
-</div>  
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/galal-ewida/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.youtube.com/user/https://www.youtube.com/@humanlearning0" target="_blank">
+        <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" style="margin-bottom: 5px;" />
+    </a>  
+    <a href="mailto:galalamrewida@gmail.com">
+        <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+    </a>
+</div> 
+
 
 
 
