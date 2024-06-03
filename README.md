@@ -1,6 +1,5 @@
-## Hi I'm Galal Ewida 👋</h1>
+### <div align="center">I'm Galal, a Data Scientist 👨‍💻 I have a great passion for using data to help make the right decisions.👌</div>  
 
-I am interested in learning data science, machine learning and software. Now I am in my fourth year in the Faculty of Electronic Engineering, Department of Cybersecurity and Data Analysis
 
 - 🎓 Computer Science & Engineering undergraduate
 - 🌱 I’m currently learning Data Scinect
