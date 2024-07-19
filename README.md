@@ -2,7 +2,6 @@
 
 
 - 👨‍🎓 Graduate of Computer Engineering, Department of Data Science and Analysis  
-- 🔭 I’m currently working on ALX as a data scientist  
 - 🌱 I am currently learning to analyze data using statistical models and machine learning algorithms. 
 - :mailbox: You can reach me with the links below
 <div align="center">
