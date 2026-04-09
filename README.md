@@ -83,18 +83,6 @@ I build production-grade AI systems — from real-time streaming engines to mult
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **Customer Persona KPI Engine** | 220+ KPIs across 6 banking domains → LLM-generated behavioral personas with risk tiers & recommendations | FastAPI, Celery, PostgreSQL, Redis, LangChain, Ollama, Langfuse, Prometheus, Grafana |
-| **SIA-Engage** | Real-time offer personalization — Flink evaluates card transactions against dynamic rules and delivers culturally-aware LLM offers | Apache Flink, Kafka, Redis, OpenAI, LangChain |
-| **MultiAgents-CustomerFit** | Multi-agent system mapping customer personas to optimal banking products | CrewAI, LangGraph, LangChain, FastAPI |
-| **RAG System** | Enterprise knowledge retrieval with vector search and multi-provider LLM support | OpenAI, Cohere, Qdrant, FastAPI, MongoDB |
-| **Talented Recruitment System** | 92% precision skill extraction with fine-tuned BERT for recruitment automation | BERT, Selenium, Flask, Python |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
